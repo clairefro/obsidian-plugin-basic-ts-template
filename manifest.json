@@ -1,0 +1,11 @@
+{
+  "id": "dull-plus",
+  "name": "Dull Plus",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Save space in your drive when pasting images, using adjustable compression with previews",
+  "author": "Claire Froelich",
+  "authorUrl": "https://github.com/clairefro",
+  "fundingUrl": "https://buymeacoffee.com/clairefro",
+  "isDesktopOnly": false
+}
